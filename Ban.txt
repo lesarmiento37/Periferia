@@ -1,4 +1,4 @@
-Version 1.0.1
+Version 1.1.0
 This is the first commit in Master branch
 This is the first commit in hostfix branch
 This is the second commit in feature1 branch
